@@ -22,5 +22,6 @@ _N_<sub>C</sub> = Numero de vueltas bobina común
 **I<sub>L</sub>** = Corriente lado de bajo
 
 La relación de voltajes entre los dos lados de un autotransformador es:
-![img](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7BV_L%7D%7BV_H%7D%3D%20%5Cfrac%7BN_C%7D%7BN_%7BSE%7D%2BN_C%7D%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)  
+
+![](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7BV_L%7D%7BV_H%7D%3D%20%5Cfrac%7BN_C%7D%7BN_%7BSE%7D%2BN_C%7D%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)  
 
