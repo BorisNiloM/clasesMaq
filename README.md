@@ -38,6 +38,12 @@ _N_<sub>C</sub> = Numero de vueltas bobina común
 
 + Por su menor resistencia y reactancia, en caso de unión accidental de los bornes del devanado secundario (falla de cortocircuito), por este aparece una elevada corriente en el secundario, muy peligrosa para la vida de la maquina por sus fuertes efectos térmicos
 
-+ Si la relación de transformación es muy elevada, por ejemplo 10000/220 V, tiene el inconveniente de presentar un borne común a los arrollamientos de AT y BT (A´ =a´), como se ve en la imagen siguiente.
++ Si la relación de transformación es muy elevada, por ejemplo 10000/220 V, tiene el inconveniente de presentar un borne común a los arrollamientos de AT y BT (A´ =a´)
 
 ![](imagenes/falla.png)
+
+## Ejemplo
+
+  **Variac**
+
+![](imagenes/Variac.jpg)
