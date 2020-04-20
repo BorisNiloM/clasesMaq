@@ -7,16 +7,16 @@ En el transformador reductor, la bobina del lado de alta tensión está compuest
 
 **V<sub>H</sub>** = Voltaje lado de alto
 
-**I~H~** = Corriente lado de alto
+**I<sub>H</sub>** = Corriente lado de alto
 
-**N~SE~** = Numero de vueltas bobina secundaria
+**N<sub>SE</sub>** = Numero de vueltas bobina secundaria
 
-**N~C~** = Numero de vueltas bobina común
+**N<sub>C</sub>** = Numero de vueltas bobina común
 
-**I~SE~** = Corriente de bonina secundaria
+**I<sub>SE</sub>** = Corriente de bonina secundaria
 
-**I~C~** = Corriente bobina común
+**I<sub>C</sub>** = Corriente bobina común
 
-**V~L~** = Voltaje lado de bajo
+**V<sub>L</sub>** = Voltaje lado de bajo
  
-**I~L~** = Corriente lado de bajo
+**I<sub>L</sub>** = Corriente lado de bajo
