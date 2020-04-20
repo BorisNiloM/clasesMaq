@@ -1,12 +1,11 @@
 # Autotransformador
-	Es un transformador especial formado por un devanado continuo, que se utiliza a la vez como 
-primario y secundario, por lo que las tensiones de alimentación y salida no van aisladas entre si.
+Es un transformador especial formado por un devanado continuo, que se utiliza a la vez como primario y secundario, por lo que las tensiones de alimentación y salida no van aisladas entre si.
 
 En el transformador reductor, la bobina del lado de alta tensión está compuesta por la bobina serie y la bobina común. La bobina del lado de baja tensión es la bobina común.
 
 ![Autotransformador](imagenes/autotransformador1.png "Autotransformador Reductor")
 
-**V~H~** = Voltaje lado de alto
+**V<sub>H</sub>** = Voltaje lado de alto
 
 **I~H~** = Corriente lado de alto
 
