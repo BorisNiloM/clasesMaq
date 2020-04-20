@@ -1,3 +1,3 @@
 # Autotransformador
 
-[Autotransformador](imagenes/autotransformador1.png)
+![Autotransformador](imagenes/autotransformador1.png)
