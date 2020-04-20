@@ -4,4 +4,4 @@ primario y secundario, por lo que las tensiones de alimentacion y salida no van 
 
 ![Autotransformador](imagenes/autotransformador1.png)
 
-$\frac{v1}{v2}$
+$$\frac{v1}{v2}$$
