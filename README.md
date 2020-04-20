@@ -29,14 +29,15 @@ La relación de corrientes entre los dos lados de un autotransformador es:
 
 ![](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7BI_L%7D%7BI_H%7D%3D%20%5Cfrac%7BN_%7BSE%7D%2BN_C%7D%7BN_C%7D%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
 
-##Ventajas: 
-+Hay ahorro de material en un autotransformador frente al transformador: la reducción del numero de espiras permite emplear circuitos magnéticos más chicos lo que reduce el peso en hierro.
 
-+Menos perdidas en el cobre y en el hierro, lo que mejora el rendimiento y la caída de tensión frente al transformador.
+## Ventajas: 
++ Hay ahorro de material en un autotransformador frente al transformador: la reducción del numero de espiras permite emplear circuitos magnéticos más chicos lo que reduce el peso en hierro.
 
-##Desventajas:
++ Menos perdidas en el cobre y en el hierro, lo que mejora el rendimiento y la caída de tensión frente al transformador.
 
-+Por su menor resistencia y reactancia, en caso de unión accidental de los bornes del devanado secundario (falla de cortocircuito), por este aparece una elevada corriente en el secundario, muy peligrosa para la vida de la maquina por sus fuertes efectos térmicos
+## Desventajas:
 
-+Si la relación de transformación es muy elevada, por ejemplo 10000/220 V, tiene el inconveniente de presentar un borne común a los arrollamientos de AT y BT (A´ =a´), como se ve en la imagen siguiente.
++ Por su menor resistencia y reactancia, en caso de unión accidental de los bornes del devanado secundario (falla de cortocircuito), por este aparece una elevada corriente en el secundario, muy peligrosa para la vida de la maquina por sus fuertes efectos térmicos
+
++ Si la relación de transformación es muy elevada, por ejemplo 10000/220 V, tiene el inconveniente de presentar un borne común a los arrollamientos de AT y BT (A´ =a´), como se ve en la imagen siguiente.
 
