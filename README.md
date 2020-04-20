@@ -21,11 +21,11 @@ _N_<sub>C</sub> = Numero de vueltas bobina común
  
 **I<sub>L</sub>** = Corriente lado de bajo
 
-La relación de voltajes entre los dos lados de un autotransformador es:
+* La relación de voltajes entre los dos lados de un autotransformador es:
 
 ![](imagenes/relvol.png)  
 
-La relación de corrientes entre los dos lados de un autotransformador es:
+* La relación de corrientes entre los dos lados de un autotransformador es:
 
 ![](imagenes/relCor.png)
 
@@ -40,3 +40,4 @@ La relación de corrientes entre los dos lados de un autotransformador es:
 
 + Si la relación de transformación es muy elevada, por ejemplo 10000/220 V, tiene el inconveniente de presentar un borne común a los arrollamientos de AT y BT (A´ =a´), como se ve en la imagen siguiente.
 
+![](imagenes/falla.png)
