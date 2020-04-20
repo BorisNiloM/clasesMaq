@@ -4,4 +4,4 @@ primario y secundario, por lo que las tensiones de alimentacion y salida no van 
 
 ![Autotransformador](imagenes/autotransformador1.png)
 
-![](http://www.sciweavers.org/tex2img.php?eq%3D%2520%255Cfrac%257BV_1%257D%257BV_2%257D%2520%26bc%3DWhite%26fc%3DBlack%26im%3Djpg%26fs%3D12%26ff%3Darev%26edit%3D%29%0D%0A
+![img](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7BV_1%7D%7BV_2%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
