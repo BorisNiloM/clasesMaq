@@ -23,12 +23,11 @@ _N_<sub>C</sub> = Numero de vueltas bobina común
 
 La relación de voltajes entre los dos lados de un autotransformador es:
 
-![](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7BV_L%7D%7BV_H%7D%3D%20%5Cfrac%7BN_C%7D%7BN_%7BSE%7D%2BN_C%7D%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)  
+![](imagenes/relvol.png)  
 
 La relación de corrientes entre los dos lados de un autotransformador es:
 
-![](http://www.sciweavers.org/tex2img.php?eq=%20%5Cfrac%7BI_L%7D%7BI_H%7D%3D%20%5Cfrac%7BN_%7BSE%7D%2BN_C%7D%7BN_C%7D%20%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
-
+![](imagenes/relCor.png)
 
 ## Ventajas: 
 + Hay ahorro de material en un autotransformador frente al transformador: la reducción del numero de espiras permite emplear circuitos magnéticos más chicos lo que reduce el peso en hierro.
